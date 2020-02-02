@@ -1,3 +1,8 @@
+V4.0 changes:
+- New function Global or Player Textdraw
+- New export mode (Mixed mode)
+- Hold the ALT key for better precision to edit the Textdraw
+
 Zamaroht's TextDraw Editor Version 1.0RC2.
 Designed for SA-MP 0.3.
 
@@ -16,6 +21,7 @@ If you modify this file, the same terms apply. You have to include the original
 author (Zamaroht) and the link back to the mentioned webpage.
 
 Changelog:
+
 	25/10/2012
 	- PlayerTextDraw function add by adri1
 	
