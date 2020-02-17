@@ -47,7 +47,6 @@ Changelog:
 // Used with P_Aux
 #define DELETING 0
 #define LOADING 1
-#define LOCAL 1
 
 // Used with P_KeyEdition
 #define EDIT_NONE       0
